@@ -1,0 +1,17 @@
+Paper_1
+	Stock Prediction Based on Optimized LSTM and GRU Models
+	Ya Gaoq Rong Wang  and Enmin Zhou
+	Received09 Aug 2021
+	Accepted11 Sep 2021
+	Published29 Sep 2021
+	https://www.hindawi.com/journals/sp/2021/4055281/
+
+Paper_2
+	Stock Price Forecast Based on CNN-BiLSTM-ECA Model
+	Yu Chen , Ruixin Fang , Ting Liang , Zongyu Sha , Shicheng Li , Yugen Yi , Wei Zhou , and Huilin Song 
+	Received 4 May 2021;
+	Revised 3 June 2021;
+	Accepted 28 June 2021; 
+	Published 9 July 2021
+	https://www.hindawi.com/journals/sp/2021/2446543/
+	*Мнението ми е поставено, като коментар в резюмето.
